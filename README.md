@@ -1,40 +1,32 @@
-# Nord Walls
-<p align="left"> <a href="https://github.com/arcticicestudio/styleguide-git/releases/latest" target="_blank"><img src="https://img.shields.io/github/release/arcticicestudio/styleguide-git.svg?style=flat-square&label=Git%20Style%20Guide&logoColor=eceff4&colorA=4c566a&colorB=88c0d0&logo=git"/></a></p>
+# ML4W Wallpaper Collection
 
-**sleek wallpapers based on this beautiful color pallete** <p align="center"><a href="https://www.nordtheme.com" target="_blank"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-docs/main/assets/images/nord/repository-hero.svg?sanitize=true"/></a></p>
+My personal wallpaper collection that fits best to tiling window managers.
 
-[![Nord Color Palette Overview](https://raw.githubusercontent.com/arcticicestudio/nord-docs/main/assets/images/nord/repository-color-palettes.svg?sanitize=true)](https://www.nordtheme.com/docs/colors-and-palettes)
+![image](https://github.com/user-attachments/assets/9f94272d-7278-4599-801c-8b104ca746c8)
 
-# Note
-<details>
-<summary>"Click to Expand"</summary>
+## Installation
 
-**I dont Own any rights to these wallpapers**.
-# Credits ![ImageGoNord](https://github.com/Schrodinger-Hat/ImageGoNord)
-</details>
+Clone the directory from your home directory.
 
+```
+cd ~/Pictures # You can also choose a different location
+git clone --depth=1 https://github.com/mylinuxforwork/wallpaper.git
+cd wallpaper/
+```
+If you are using the ML4W Dotfiles for Hyprland, you can select the the new wallpaper folder with Waypaper.
 
-# Sample 👑
-![](wallpapers/66.png)
-![](wallpapers/79.png)
-![](wallpapers/8.png)
-![](wallpapers/78.png)
-![](wallpapers/77.png)
-![](wallpapers/73.png)
-![](wallpapers/52.png)
-![](wallpapers/53.png)
-![](wallpapers/70.png)
-![](wallpapers/76.png)
-![](wallpapers/58.png)
-![](wallpapers/27.png)
-![](wallpapers/63.png)
-![](wallpapers/62.png)
-![](wallpapers/67.png)
-![](wallpapers/36.png)
-![](wallpapers/39.png)
-![](wallpapers/41.png)
-![](wallpapers/48.png)
-![](wallpapers/50.png)
-![](wallpapers/54.png)
-![](wallpapers/16.png)
-![](wallpapers/10.png)
+## Update
+
+You can update the wallpapers with
+
+```
+cd ~/Pictures/wallpaper
+git pull
+```
+## Wallpaper Resources
+
+Great download resources for wallpapers are:
+
+https://www.reddit.com/r/wallpapers/
+
+https://4kwallpapers.com

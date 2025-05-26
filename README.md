@@ -1,32 +1,29 @@
-# ML4W Wallpaper Collection
 
-My personal wallpaper collection that fits best to tiling window managers.
+<h1>
+<p align="center">
+  <img alt="GitHub" src="https://raw.githubusercontent.com/ItsTerm1n4l/Wallpapers/main/assets/github_badge.jpg">
+  <img alt="GitHub" src="https://img.shields.io/github/directory-file-count/ItsTerm1n4l/Wallpapers/All?style=for-the-badge&label=Wallpapers&color=3E68D7&labelColor=151724">
+</p>
+</h1>
 
-![image](https://github.com/user-attachments/assets/9f94272d-7278-4599-801c-8b104ca746c8)
 
-## Installation
+### My Awesome Wallpaper Collection.        
 
-Clone the directory from your home directory.
+The wallpapers are ordered categorically,  
+- **All** - All the wallpapers.  
+- **Favourites** - My favourite wallpapers.  
+- **Nord** - Nord colourscheme wallpapers.  
+- **Firewatch-style** - Wallpapers that follow the firewatch style - smooth landscapes.    
 
-```
-cd ~/Pictures # You can also choose a different location
-git clone --depth=1 https://github.com/mylinuxforwork/wallpaper.git
-cd wallpaper/
-```
-If you are using the ML4W Dotfiles for Hyprland, you can select the the new wallpaper folder with Waypaper.
+## **Disclaimer:**  
 
-## Update
+This is just my collection, and most of these wallpapers were made by others.  
+If you are the creator of any of these images please create an issue and I will feature you here. ↓↓↓↓  
+### **Licenses:**  
 
-You can update the wallpapers with
+MIT: https://lbesson.mit-license.org/  
+GPL: https://www.gnu.org/licenses/gpl-3.0.txt  
 
-```
-cd ~/Pictures/wallpaper
-git pull
-```
-## Wallpaper Resources
-
-Great download resources for wallpapers are:
-
-https://www.reddit.com/r/wallpapers/
-
-https://4kwallpapers.com
+Give It Away: <https://youtu.be/mUfcasIspAY>   
+___
+I just don't wanna get sued lol  

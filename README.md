@@ -1,29 +1,13 @@
+## MalwarePad's Wallpapers
+### What does this collection have?
+Here you can find some nice landscape wallpapers (100+). They aren't taken by me so credits to the photographers who took these amazing shots! <b>These pictures can make your desktop look 100x cooler with no effort. </b>
 
-<h1>
-<p align="center">
-  <img alt="GitHub" src="https://raw.githubusercontent.com/ItsTerm1n4l/Wallpapers/main/assets/github_badge.jpg">
-  <img alt="GitHub" src="https://img.shields.io/github/directory-file-count/ItsTerm1n4l/Wallpapers/All?style=for-the-badge&label=Wallpapers&color=3E68D7&labelColor=151724">
-</p>
-</h1>
+### Contributing?
+Yeah but only landscapes allowed. That's the only kind of wallpapers I use and you should use.
 
+### Screenshot competition:
+You can create an issue and post a screenshot of your setup (only with landscape wallpapers) and maybe I will post your image here on the ``README.md``! 
 
-### My Awesome Wallpaper Collection.        
-
-The wallpapers are ordered categorically,  
-- **All** - All the wallpapers.  
-- **Favourites** - My favourite wallpapers.  
-- **Nord** - Nord colourscheme wallpapers.  
-- **Firewatch-style** - Wallpapers that follow the firewatch style - smooth landscapes.    
-
-## **Disclaimer:**  
-
-This is just my collection, and most of these wallpapers were made by others.  
-If you are the creator of any of these images please create an issue and I will feature you here. ↓↓↓↓  
-### **Licenses:**  
-
-MIT: https://lbesson.mit-license.org/  
-GPL: https://www.gnu.org/licenses/gpl-3.0.txt  
-
-Give It Away: <https://youtu.be/mUfcasIspAY>   
-___
-I just don't wanna get sued lol  
+### Screenshots:
+Mine:
+![Mine](Screenshots/1.png)

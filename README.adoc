@@ -1556,3 +1556,9 @@ image::urban/preview_WormsEyeFoggy.jpg[link=urban/WormsEyeFoggy.jpg]
 === ZucholdArchitecture
 
 image::urban/preview_ZucholdArchitecture.jpg[link=urban/ZucholdArchitecture.jpg]
+
+
+
+
+
+https://www.kali.org/blog/new-kali-archive-signing-key/
